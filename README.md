@@ -10,7 +10,7 @@
 
 ----
 
-![GLOBAL](global.jpb "GLOBAL")
+
 
 - [ ] to do list
 - [x] 1st thing

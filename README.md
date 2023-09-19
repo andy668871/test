@@ -10,7 +10,7 @@
 
 ----
 
-
+![GLOBAL](global.jpg "GLOBAL")
 
 - [ ] to do list
 - [x] 1st thing
